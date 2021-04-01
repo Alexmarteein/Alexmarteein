@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexmarteein
-- 👀 I’m interested in Alex
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently working at ELECTAT TECHNOLOGIES PVT LTD 
 - 💞️ I’m looking to Web Clients
 - 📫 How to reach  just email me at alexmarteein@gmail.com
